@@ -1,0 +1,18 @@
+2023-04-17 18:21:38,562 INFO  [Log] Application Opened 
+2023-04-17 18:21:40,193 INFO  [Log] Login completed 
+2023-04-17 18:21:40,236 INFO  [Log] Entered into frame 
+2023-04-17 18:21:43,696 INFO  [Log] new emp added 
+2023-04-17 18:21:43,701 INFO  [Log] Exit from frame 
+2023-04-17 18:21:43,755 INFO  [Log] Logout completed 
+2023-04-17 18:21:43,920 INFO  [Log] Application closed 
+2023-04-17 18:22:11,937 INFO  [Log] Application Opened 
+2023-04-17 18:22:13,374 INFO  [Log] Login completed 
+2023-04-17 18:22:13,438 INFO  [Log] Logout completed 
+2023-04-17 18:22:13,583 INFO  [Log] Application closed 
+2023-04-17 18:22:53,430 INFO  [Log] Application Opened 
+2023-04-17 18:22:54,945 INFO  [Log] Login completed 
+2023-04-17 18:22:54,990 INFO  [Log] Entered into frame 
+2023-04-17 18:22:58,210 INFO  [Log] new emp added 
+2023-04-17 18:22:58,216 INFO  [Log] Exit from frame 
+2023-04-17 18:22:58,274 INFO  [Log] Logout completed 
+2023-04-17 18:22:58,428 INFO  [Log] Application closed 

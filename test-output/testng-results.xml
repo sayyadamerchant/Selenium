@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-17T12:52:50Z" name="Default suite" finished-at="2023-04-17T12:52:58Z" duration-ms="7587">
+    <groups>
+    </groups>
+    <test started-at="2023-04-17T12:52:50Z" name="Default test" finished-at="2023-04-17T12:52:58Z" duration-ms="7587">
+      <class name="com.hrms.textscript.TC_002">
+        <test-method signature="tc002()[pri:0, instance:com.hrms.textscript.TC_002@28d18df5]" started-at="2023-04-17T18:22:50Z" name="tc002" finished-at="2023-04-17T18:22:58Z" duration-ms="7569" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.textscript.TC_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
